@@ -1,5 +1,5 @@
 # Equipe 
-Pedro Motta e João Salles
+Pedro Motta e João Sales
 
 # Biblliotecas Usadas
 * Pandas
