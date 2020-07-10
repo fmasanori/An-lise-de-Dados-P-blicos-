@@ -2,9 +2,9 @@
 Pedro Motta e João Salles
 
 # Biblliotecas Usadas
--Pandas
--Matplotlib
--Jupyter noteboook
+* Pandas
+* Matplotlib
+* Jupyter noteboook
 
 # Análise da quantidade de Profissionais na área da saúde no Vale do Paraíba
 O trabalho toma como base os aquivos xls disponíveis no link: (http://tabnet.datasus.gov.br/tabdata/cadernos/sp.htm)[http://tabnet.datasus.gov.br/tabdata/cadernos/sp.htm]
